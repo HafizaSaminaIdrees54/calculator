@@ -96,4 +96,6 @@ UseTab: Never
 #SpaceBeforeCtorInitializerColon: true
 #SpaceBeforeInheritanceColon: true
 #SpaceBeforeRangeBasedForLoopColon: true
+#spaceAfterRangeBaseforLoopColon:false
+
 
